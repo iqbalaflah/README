@@ -15,9 +15,9 @@ Pada awal program ini pengguna diminta menginput nama dua barang dan harga kedua
 
 scanf("%s", nama_barang1&2);: Menerima input nama barang pertama dari pengguna dan menyimpannya ke variabel nama_barang1&2.
 
-printf("Masukkan harga untuk %s: Rp ", nama_barang1);: Menampilkan pesan ke layar dengan nama barang yang telah diinput, meminta pengguna untuk memasukkan harga barang tersebut.
+printf("Masukkan harga untuk %s: Rp ", nama_barang1&2);: Menampilkan pesan ke layar dengan nama barang yang telah diinput, meminta pengguna untuk memasukkan harga barang tersebut.
 
-scanf("%f", &harga_barang1);: Menerima input harga barang pertama dari pengguna dan menyimpannya ke variabel harga_barang1.
+scanf("%f", &harga_barang1&2);: Menerima input harga barang pertama dari pengguna dan menyimpannya ke variabel harga_barang1&2.
 
 Pada bagian menghitung total
 
